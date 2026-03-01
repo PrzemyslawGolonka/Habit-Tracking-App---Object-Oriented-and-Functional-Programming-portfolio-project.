@@ -17,15 +17,15 @@ users to retrieve the data from the database for habit analysis.
 ## How it works? An application preview. 
 In the first step, a user can choose an action for today from the menu.
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 If a user chooses 'check habit off', then, another menu pup up with the list of available habits. 
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 In the analytic module, a user can choose the following actions:
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 ## Requirements & Installation
 
@@ -73,9 +73,9 @@ pytest tests/
 The application has been tested before uploading it here. 
 The analytics module as well as the database functionality have been tested. 
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 ## Architecture of the project
 - main.py: CLI controller.
 - habit.py: Habit object class.
