@@ -14,7 +14,7 @@ users to retrieve the data from the database for habit analysis.
 
 ---
 
-## How it works? An application preview. 
+## How it works? An application preview 
 In the first step, a user can choose an action for today from the menu.
 
 ![img.png](images/img.png)
@@ -27,7 +27,7 @@ In the analytic module, a user can choose the following actions:
 
 ![img_2.png](images/img_2.png)
 
-## Requirements & Installation
+## Requirements and Installation process
 
 ### Prerequisites
 - Python: Version 3.7 or higher.
