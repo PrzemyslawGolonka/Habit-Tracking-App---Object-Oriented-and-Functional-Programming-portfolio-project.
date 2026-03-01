@@ -68,7 +68,7 @@ python habit_data.py
 The application uses pytest to check the functionality of Habit, HabitAnalyser, and HabitDB classes.
 To test the application, execute:
 ```bash
-pytest tests/
+pytest test/
 ```
 The application has been tested before uploading it here. 
 The analytics module as well as the database functionality have been tested. 
